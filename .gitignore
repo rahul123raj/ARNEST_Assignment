@@ -1,0 +1,7 @@
+# Backend ignores
+backend/node_modules/
+backend/.env
+
+# Frontend ignores
+frontend/assignment/node_modules/
+

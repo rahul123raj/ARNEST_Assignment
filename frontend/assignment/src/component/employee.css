@@ -1,0 +1,28 @@
+.employee{
+    width: 100vw;
+    height: 100vh;
+}
+
+.employee .card{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 10px;
+}
+
+.employee .card ul{
+    width: 20vw;
+    background-color: rgb(152, 248, 42);
+    margin-left: 100px;
+}
+
+.employee ul li img{
+    width: 150px;
+    height: 150px;
+}
+
+.employee .filters{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
